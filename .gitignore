@@ -1,0 +1,15 @@
+.DS_Store
+.config
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.fewcalcenv
+.venv
+env/
+venv/
+
+*.config
+/migrations
